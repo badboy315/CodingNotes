@@ -8,12 +8,12 @@
 
 ## 目录
 
-* [Hexo 极速配置](/source/hexo)
-* [oh-my-zsh 无法升级处理](/source/OhMyZshBug)
-* [Git 手册](/source/GitHandBook)
-* [Pelican 快速搭建](/source/Pelican)
-* [Windows 配置 github](WindowsGithub)
-* [Python 随手记](/source/PythonNote)
+* [Hexo 极速配置](http://www.ibowarrow.com/CodingNotes/source/hexo.html)
+* [oh-my-zsh 无法升级处理](http://www.ibowarrow.com/CodingNotes//source/OhMyZshBug)
+* [Git 手册](http://www.ibowarrow.com/CodingNotes//source/GitHandBook)
+* [Pelican 快速搭建](http://www.ibowarrow.com/CodingNotes//source/Pelican)
+* [Windows 配置 github](http://www.ibowarrow.com/CodingNotes/WindowsGithub)
+* [Python 随手记](http://www.ibowarrow.com/CodingNotes//source/PythonNote)
 * [待补](/source/6.md)
 * [待补](/source/7.md)
 * [待补](/source/8.md)
