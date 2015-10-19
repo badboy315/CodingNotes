@@ -8,12 +8,12 @@
 
 ## 目录
 
-* [Hexo 极速配置](/source/hexo.md)
-* [oh-my-zsh 无法升级处理](/source/OhMyZshBug.md)
-* [Git 手册](/source/GitHandBook.md)
-* [Pelican 快速搭建](/source/Pelican.md)
-* [Windows 配置 github](WindowsGithub.md)
-* [待补](/source/5.md)
+* [Hexo 极速配置](/source/hexo)
+* [oh-my-zsh 无法升级处理](/source/OhMyZshBug)
+* [Git 手册](/source/GitHandBook)
+* [Pelican 快速搭建](/source/Pelican)
+* [Windows 配置 github](WindowsGithub)
+* [Python 随手记](/source/PythonNote)
 * [待补](/source/6.md)
 * [待补](/source/7.md)
 * [待补](/source/8.md)
