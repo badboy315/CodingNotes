@@ -5,5 +5,6 @@
 * [Git 手册](/source/GitHandBook.md)
 * [Pelican 快速搭建](/source/Pelican.md)
 * [Windows 配置 github](/source/WindowsGithub.md)
+* [Python 随手记](/source/WindowsGithub.md)
 * [结尾](/source/end.md)
 =======
