@@ -6,5 +6,6 @@
 * [Pelican 快速搭建](/source/Pelican.md)
 * [Windows 配置 github](/source/WindowsGithub.md)
 * [Python 随手记](/source/PythonNote.md)
+* [为什么要看官方教程](/source/WhyOfficialTutorialsImportant.md)
 * [结尾](/source/end.md)
 =======
