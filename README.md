@@ -3,7 +3,7 @@
 ---
 
 ## 内容简介
- 
+
 折腾史的乱入
 
 ## 目录
@@ -14,9 +14,9 @@
 * [Pelican 快速搭建](http://www.ibowarrow.com/CodingNotes//source/Pelican)
 * [Windows 配置 github](http://www.ibowarrow.com/CodingNotes/WindowsGithub)
 * [Python 随手记](http://www.ibowarrow.com/CodingNotes//source/PythonNote)
-* [待补](/source/6.md)
-* [待补](/source/7.md)
-* [待补](/source/8.md)
+* [为什么要看官方教程](/source/6.md)
+* [C2T2](/source/7.md)
+* [sublime 私有设置](/source/8.md)
 * [待补](/source/9.md)
 * [待补](/source/10.md)
 * [待补](/source/11.md)
@@ -24,5 +24,3 @@
 ## 作者
 
 [About~弓和箭 见豆瓣](http://www.douban.com/people/atsf/)
-
-
