@@ -4,22 +4,7 @@
 
 ## 内容简介
 
-折腾史的乱入
-
-## 目录
-
-* [Hexo 极速配置](http://www.ibowarrow.com/CodingNotes/source/hexo.html)
-* [oh-my-zsh 无法升级处理](http://www.ibowarrow.com/CodingNotes//source/OhMyZshBug)
-* [Git 手册](http://www.ibowarrow.com/CodingNotes//source/GitHandBook)
-* [Pelican 快速搭建](http://www.ibowarrow.com/CodingNotes//source/Pelican)
-* [Windows 配置 github](http://www.ibowarrow.com/CodingNotes/WindowsGithub)
-* [Python 随手记](http://www.ibowarrow.com/CodingNotes//source/PythonNote)
-* [为什么要看官方教程](/source/6.md)
-* [C2T2](/source/7.md)
-* [sublime 私有设置](/source/8.md)
-* [待补](/source/9.md)
-* [待补](/source/10.md)
-* [待补](/source/11.md)
+//todo
 
 ## 作者
 
